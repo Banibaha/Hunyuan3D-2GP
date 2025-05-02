@@ -7,7 +7,7 @@ einops
 opencv-python
 numpy
 torch
-transformers==4.49.0
+transformers==4.50.0
 torchvision
 #taming-transformers-rom1504
 #ConfigArgParse
